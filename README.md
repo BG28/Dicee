@@ -1,1 +1,2 @@
 # Dicee
+A Dice Game
